@@ -1,0 +1,7 @@
+Open Source Manifesto
+----------------------
+Date: Tue Mar 31 08:38:35 UTC 2026
+
+I believe in open source because it gives me the freedom of choice.
+Using tools like git, I learn and grow every day.
+One day, I want to build A secure OSS audit tool and share it with the world.
